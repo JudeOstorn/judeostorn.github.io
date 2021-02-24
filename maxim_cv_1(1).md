@@ -142,4 +142,4 @@ Maxim Klimkin, 22 years old. I do fencing, play guitar and video games (I enter 
 * GitHub profile: [github.com/JudeOstorn](https://github.com/JudeOstorn)
 * phone number: [+79961822492](tel:+79961822492)
 * email: [judeostorn66@gmail.com](mailto:judeostorn66@gmail.com)
-* telegram: @judeostorn
+* telegram: @WingedMind
